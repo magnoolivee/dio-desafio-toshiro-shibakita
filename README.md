@@ -1,7 +1,7 @@
 
 # Cenário De Microsserviços 
 ## Desafio de projeto da DIO 
-### Instrutor - Denilson Bonatti
+### Instrutor [Denilson Bonatti](https://www.linkedin.com/in/denilsonbonatti/)
 
 Nesta aula prática, Você terá a oportunidade de acompanhar a criação de um ambiente de microsserviços utilizando o Docker.
 
@@ -10,7 +10,7 @@ Mas qual a real função de um container no cenários de microsserviços?
 Qual a real função e quais exemplos práticos podem ser aplicados no dia a dia? 
 Essas são algumas das questões que serão abordadas de forma prática pelo Expert Instructor nesta Live Coding. 
 
-Agora nossas Live Codings acontecerão no canal oficial https://www.youtube.com/@diomakethechange. 
+Agora nossas Live Codings acontecerão no [canal oficial da DIO](https://www.youtube.com/@diomakethechange.)
 
 Então, já corre lá e ative o lembrete!
 ---
