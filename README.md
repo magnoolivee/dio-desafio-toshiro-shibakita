@@ -10,7 +10,7 @@ Nesta aula prática, Você terá a oportunidade de acompanhar a criação de um 
 
 - Qual a real função e quais exemplos práticos podem ser aplicados no dia a dia? 
 
-#### Essas são algumas das questões que serão abordadas de forma prática pelo Expert nesta Live Coding. 
+#### Essas são algumas das questões que serão abordadas de forma prática pelo Expert nesta Live. 
 
 Agora nossas Live Codings acontecerão no [canal oficial da DIO](https://www.youtube.com/@diomakethechange)
 
