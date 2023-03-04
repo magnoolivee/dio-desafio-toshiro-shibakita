@@ -3,10 +3,7 @@
 ## Desafio de projeto da DIO 
 ### Instrutor - Denilson Bonatti
 
-Nesta aula prática, ministrada pelo  instrutor Denilson Bonatti.
-Você terá a oportunidade de acompanhar a criação de um ambiente de microsserviços utilizando o Docker.
-
-
+Nesta aula prática, Você terá a oportunidade de acompanhar a criação de um ambiente de microsserviços utilizando o Docker.
 
 ### Muito se tem falado de containers e consequentemente do Docker no ambiente de desenvolvimento. 
 Mas qual a real função de um container no cenários de microsserviços? 
