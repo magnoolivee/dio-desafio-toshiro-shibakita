@@ -10,7 +10,7 @@ Mas qual a real função de um container no cenários de microsserviços?
 Qual a real função e quais exemplos práticos podem ser aplicados no dia a dia? 
 Essas são algumas das questões que serão abordadas de forma prática pelo Expert Instructor nesta Live Coding. 
 
-Agora nossas Live Codings acontecerão no [canal oficial da DIO](https://www.youtube.com/@diomakethechange.)
+Agora nossas Live Codings acontecerão no [canal oficial da DIO](https://www.youtube.com/@diomakethechange)
 
 Então, já corre lá e ative o lembrete!
 ---
