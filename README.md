@@ -15,6 +15,4 @@ Este projeto configura um ambiente com um servidor Nginx atuando como proxy para
 
 Agora nossas Live Codings acontecerão no [canal oficial da DIO](https://www.youtube.com/@diomakethechange)
 
-Então, já corre lá e ative o lembrete!
----
-Pré-requisitos:                                                                                                                                                            Conhecimentos básicos em Linux, Docker e AWS.
+
