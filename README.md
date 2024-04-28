@@ -13,6 +13,6 @@ Este projeto configura um ambiente com um servidor Nginx atuando como proxy para
 
 #### Essas são algumas das questões que serão abordadas de forma prática pelo Expert nesta Live. 
 
-Agora nossas Live Codings acontecerão no [canal oficial da DIO](https://www.youtube.com/@diomakethechange)
+(https://www.youtube.com/@diomakethechange)
 
 
