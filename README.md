@@ -1,7 +1,6 @@
+# Projeto Acadêmico 
 
-# Cenário De Microsserviços 
-## Desafio de projeto da DIO 
-### Instrutor [Denilson Bonatti](https://www.linkedin.com/in/denilsonbonatti/)
+## Cenário De Microsserviços 
 Nessa aula, os alunos recebem uma introdução básica sobre o Docker e têm a oportunidade de acompanhar a demonstração do instrutor criando um ambiente de microsserviços com as melhores práticas. Este repositório é a minha entrega como parte do projeto final do curso.
 
 #### De acordo com o instrutor que demonstra e explica na aula prática no curso Linux do zero 
