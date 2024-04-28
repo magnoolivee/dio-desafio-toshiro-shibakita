@@ -11,8 +11,7 @@ Este projeto configura um ambiente com um servidor Nginx atuando como proxy para
 
 - Qual a real função e quais exemplos práticos podem ser aplicados no dia a dia? 
 
-#### Essas são algumas das questões que serão abordadas de forma prática pelo Expert nesta Live. 
-
-Live: https://www.youtube.com/@diomakethechange
+#### recomedção da live gravada:
+https://www.youtube.com/@diomakethechange
 
 
